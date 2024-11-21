@@ -1,0 +1,5 @@
+## ignore the weights of the yolo model ##
+notebooks/yolov5s.pt
+
+## ignore the data zip ##
+dataset/
