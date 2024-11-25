@@ -1,5 +1,5 @@
-## ignore the weights of the yolo model ##
-notebooks/yolov5s.pt
+## ignore the datasets zip ##
+datasets/
 
-## ignore the data zip ##
-dataset/
+## ignore the model architecture (.pt) ##
+*.pt
